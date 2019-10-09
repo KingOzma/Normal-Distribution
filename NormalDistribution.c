@@ -1,5 +1,3 @@
-// CS 153 PROGRAM ASSIGNMENT #2
-//
 // Normal Distribution 
 //
 // 9/17/18
